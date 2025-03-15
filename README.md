@@ -1,4 +1,4 @@
-**Audiobooks reviews dashboard - Tableau excercise done in Python Dash**
+**Audiobook reviews dashboard - Tableau excercise done in Python Dash**
 
 After making three dashboards in Python Dash rather than Power BI, I thought I would give Tableau a go<br>
 Attempting the Audiobooks Tableau exercise in Udemy's *[The Business Intelligence Analyst Course](https://www.udemy.com/course/the-business-intelligence-analyst-course-2018)*, I was put off by the phrases
