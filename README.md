@@ -16,3 +16,5 @@ In addition to the required widgets, I've added a date filter so that the time e
 I have also added an extra page (*Ratings*), which allows the comparison of the ratings between books. Most of the books are rated very hightly (obviously not reading the same ones as me), so to see this in action  filter the dates to close to the end date, where the data are very sparse (the t-statistic will kick in when the numbers are small enough).
 
 ![](https://raw.githubusercontent.com/steviecurran/audio-books/refs/heads/main/dash_p2.png)
+
+![](https://raw.githubusercontent.com/steviecurran/audio-books/refs/heads/main/dash_p2a.png)
