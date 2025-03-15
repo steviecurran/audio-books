@@ -11,8 +11,8 @@ So again I thought, to hell with this, I want something I can trust. I first att
 
 ![](https://raw.githubusercontent.com/steviecurran/audio-books/refs/heads/main/dash_p1.png)
 
-In addition to the required widgets, I've added a date filter so that the time ecolution of the reviews can be monitered.
+In addition to the required widgets, I've added a date filter so that the time evolution of the reviews can be monitered.
 
-I have also added an extra page, which allows the comparison of the ratings between books. Most of the books are rated very hightly (obviously not reading the same ones as me), so filter the dates to close to the end date, where the data are very sparse, to see this in action (the t-statistic will kick in when the numbers are small enough).
+I have also added an extra page (*Ratings*), which allows the comparison of the ratings between books. Most of the books are rated very hightly (obviously not reading the same ones as me), so to see this in action  filter the dates to close to the end date, where the data are very sparse (the t-statistic will kick in when the numbers are small enough).
 
 ![](https://raw.githubusercontent.com/steviecurran/audio-books/refs/heads/main/dash_p2.png)
