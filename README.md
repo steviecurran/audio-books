@@ -7,7 +7,7 @@ Attempting the Audiobooks Tableau exercise in Udemy's *[The Business Intelligenc
 
  - "Sometimes using a join, we’ll do a perfect job, while in other situations, blending will either deliver better or quicker results or be the only solution" 
 
-So again I thought, to hell with this, I want something I can trust. I first attempted this exercise in a Jupyter notebook, but found this to be too clunky and not very pretty with all of the innards in plain view. So, once again, back to Python Dash which worked extremely well.
+So again I thought, to hell with this, I want something I can trust. I first attempted this exercise in a Jupyter notebook, but found this to be too clunky and not very pretty, with all of the innards in plain view. So, once again, back to Python Dash which worked extremely well.
 
 ![](https://raw.githubusercontent.com/steviecurran/audio-books/refs/heads/main/dash_p1.png)
 
